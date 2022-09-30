@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$PWD" file /action 
+export PATH=$PATH:/action
